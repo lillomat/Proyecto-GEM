@@ -5,6 +5,7 @@ El archivo uploadformpauta.php se incorpora en moodle/mod/emarking/forms
 Orden de utilizacion:
 Profesor:
 Debe instalar los plugins de emarking, encontrados en el github de villalon o en el zip entregado.
+plugin emarking--->https://github.com/villalon/emarking
 Crear un curso en donde debe rellenar este con alumnos y un profesor.
 Los alumnos inscritos manualmente deben ser llamados, Alumno 1, Alumno 2, etc...
 Al tener el curso listo con los integrantes inscritos, se procede a crear una actividad de emarking, subiendo como prueba el archivo input.pdf.
@@ -16,5 +17,5 @@ Si lo desea el profesor puede subir la pauta mediante el tab Upload Pauta, esta 
 Alumno:
 Una vez terminado las instrucciones del profesor, se procede a analizar el alumno.
 Se ingresa como alumno al curso al que tiene inscrita su prueba.
-Se vera los puntajes de cada pregunta segun la rubrica creada, y al no tener puntaje completo, al lado puede revisar la prueba de otro compañero con puntaje completo en ese item de la rubrica creada.
+Se vera los puntajes de cada pregunta segun la rubrica creada, y al no tener puntaje completo, al lado puede revisar la prueba de otro compaÃ±ero con puntaje completo en ese item de la rubrica creada.
 Finalmente, debajo de su nombre con su nota aparecera si el profesor subio la pauta de la prueba, donde aparecera con el icono de PDF un link a la pauta.
